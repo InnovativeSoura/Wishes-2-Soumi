@@ -18,8 +18,8 @@ body {
 /* Glassmorphism Effect */
 .container {
     background: rgba(55, 81, 175, 0.2);
-    backdrop-filter: blur(100px);
-    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(100vh);
+    -webkit-backdrop-filter: blur(10vh);
     padding: 20px;
     border-radius: 15px;
     box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
